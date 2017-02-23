@@ -1,0 +1,22 @@
+{
+  "name": "acm-ucf-slackbot",
+  "version": "1.0.0",
+  "description": "A bot for the Slack of the chapter of ACM at UCF",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slackbot",
+    "js"
+  ],
+  "author": "rpazda",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.5.1",
+    "cheerio": "^0.22.0",
+    "http": "0.0.0",
+    "request": "^2.79.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
